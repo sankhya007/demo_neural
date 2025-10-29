@@ -33,8 +33,8 @@ This project demonstrates the **core mechanics** behind neural networks — from
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/sankhya007/neural_network_demo.git
-cd neural_network_demo
+git clone https://github.com/sankhya007/demo_neural.git
+cd demo_neural
 ```
 
 2️⃣ Install dependencies:
